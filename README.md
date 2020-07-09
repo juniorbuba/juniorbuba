@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+The name is Moh.
+
+Moh has a super power, Moh is considered a magician by many, they seem to think he speaks to computers and make them do his bidding. Moh is happy, he spent years mastering his ```magical skills``` and will still spend years getting better.
+
+The few who possess the same power know Moh is just an ordinary guy with a computer. 
+Be like Moh.
