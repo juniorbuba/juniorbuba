@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # The name is Moh.
 
-Moh has a super power, Moh is considered a magician by many, they seem to think he speaks to computers and makes them do his bidding. Moh is happy, he spent years mastering his ```magical skills``` and will spend years ahead getting better.
+Moh has a super power, Moh is considered a magician by many, they seem to think he speaks to computers and makes them do his bidding. Moh is happy, he has spent a lot of time mastering his ```magical skills``` and will spend years ahead getting better.
 
 The few who possess the same power know Moh is just an ordinary guy with a computer. 
 Be like Moh.
